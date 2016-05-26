@@ -15,3 +15,11 @@ libraryDependencies += {
 libraryDependencies += {
   "com.typesafe.akka" %% "akka-actor" % "2.4.4"
 }
+
+libraryDependencies += {
+  "io.netty" % "netty-all" % "4.1.0.Final"
+}
+
+libraryDependencies += {
+  "org.slf4j" % "slf4j-api" % "1.7.21"
+}
