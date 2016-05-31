@@ -4,5 +4,4 @@
 object ScalaServer extends App{
   val port = 21043
 
-
 }
